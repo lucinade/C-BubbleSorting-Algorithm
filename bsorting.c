@@ -6,7 +6,6 @@ int main(void) {
 
 	int arr[] = {5,1,2,1,99,11,100,3};
 	int n = sizeof(arr) / sizeof(arr[0]);
-	int ccc[n];
 	
 	SortArray(arr, n);
 
